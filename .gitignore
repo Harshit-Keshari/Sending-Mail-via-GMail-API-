@@ -1,0 +1,4 @@
+myenv/
+client_secrets.json
+token.json
+*.json
